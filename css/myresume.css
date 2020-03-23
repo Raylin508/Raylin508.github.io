@@ -10,3 +10,7 @@ subheading {
 p {
 	font-family: 'Noto Sans TC', sans-serif;
 }
+body{text-transform: capitalize;
+}
+p{text-transform: capitalize;
+}
