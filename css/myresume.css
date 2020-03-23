@@ -3,9 +3,11 @@ body {
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Noto Sans TC', sans-serif;
+    text-tranform:none;
 }
 subheading {
 	font-family: 'Noto Sans TC', sans-serif;
+	text-tranform:none;
 }
 p {
 	font-family: 'Noto Sans TC', sans-serif;
@@ -15,6 +17,4 @@ body{text-transform: capitalize;
 p{text-transform: capitalize;
 }
 h1{text-transform: capitalize;
-}
-phone{text-transform: lowercase;
 }
