@@ -16,3 +16,5 @@ p{text-transform: capitalize;
 }
 h1{text-transform: capitalize;
 }
+phone{text-transform: lowercase;
+}
