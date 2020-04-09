@@ -2,7 +2,7 @@ body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-body.container-fluid p-0{
+body.w-100 {
 	background-color: rgba(138, 43, 226, 0.5)
 }
 
