@@ -37,12 +37,17 @@ a {
 	color: #724732;
 }
 
-a:active, a:focus, a:hover {
+a:link {
 	color: #724732;
 }
 
-a:link {
-	color:#581845}
+a:visited {
+	color:#581845
+}
+
+a:hover {
+	color:FF5733
+}
 
 
 
