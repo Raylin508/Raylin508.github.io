@@ -2,6 +2,10 @@ body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
+.w-100 {
+	background-color:#9D3257!important;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
