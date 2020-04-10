@@ -49,8 +49,8 @@ a:hover {
 	color:#2A9D8F
 }
 
-.interests-icons {
-	font-size: 30px；
+.interests-icons i: hover {
+	color: #724732;
 }
 	
 
