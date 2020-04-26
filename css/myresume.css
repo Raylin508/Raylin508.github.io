@@ -59,7 +59,7 @@ a:hover {
 table {
 	width:60%       
 }
-tr {
-	border-width:5px
+tr:nth-child(even) {
+	 background-color:#FF8000;
 }
 
