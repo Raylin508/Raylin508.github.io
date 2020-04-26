@@ -59,6 +59,8 @@ a:hover {
 table {
 	width:60%
 }
-
+tr {
+	border-bottom:1px,solid,#000000
+}
 
 
