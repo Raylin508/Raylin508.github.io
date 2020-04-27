@@ -32,7 +32,7 @@ h1 .text-primary {
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
-.social-icons:hover {
+.social-icons i:hover {
 	color: #724732；
 }
 	
