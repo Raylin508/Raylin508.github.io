@@ -62,7 +62,7 @@ table {
 tr:nth-child(even) {
 	 background-color:#E6FF00;
 }
-tr:hover{
+table:hover{
   font-weight:bold
 }
 .table table-striped table-bordered table-hover:first-child {
