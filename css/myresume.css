@@ -1,6 +1,6 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	background-color:#528ECE；
+	background-color:#528ECE
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,7 +23,7 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color:#9D3257!important;
-	background-image: url("https://www.transparenttextures.com/patterns/subtle-white-feathers.png");
+	background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png");
 }
 
 .text-primary {
