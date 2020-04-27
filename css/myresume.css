@@ -13,12 +13,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.2rem;
 	text-transform: none;
 	letter-spacing: -0.05rem;
+	color:#F25824；
 }
 
 h1 .text-primary {
 	font-size: 3rem;
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
+	color:#F25824；
 }
 
 .bg-primary {
@@ -34,11 +36,11 @@ h1 .text-primary {
 	text-transform: none;
 }
 .social-icons a:hover {
-  background-color: #724732;
+  background-color: #F25824;
 }
 		
 a {
-	color: #724732;
+	color: #F25824;
 }
 
 a:link {
@@ -46,15 +48,15 @@ a:link {
 }
 
 a:hover {
-	color:#724732;
+	color:#F25824;
 }
 
 .interests-icons i:hover {
-	color: #724732;
+	color: #F25824;
 }
 	
 .skills-icons i:hover {
-	color: #724732;
+	color: #F25824;
 }
 table {
 	width:50%       
