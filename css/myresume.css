@@ -51,15 +51,15 @@ a:link {
 }
 
 a:hover {
-	color:#9D3257;
+	color:#3d0a09;
 }
 
 .interests-icons i:hover {
-	color: #9D3257;
+	color: #3d0a09;
 }
 	
 .skills-icons i:hover {
-	color: #9D3257;
+	color: #3d0a09;
 }
 table {
 	width:50%       
@@ -71,5 +71,8 @@ table:hover{
   font-weight:bold
 }
 p {
+	color: #9D3257;
+}
+i {
 	color: #9D3257;
 }
