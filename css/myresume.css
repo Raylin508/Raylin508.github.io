@@ -33,9 +33,9 @@ h1 .text-primary {
 	text-transform: none;
 }
 .social-icons a:hover {
-	color: #724732；
+  background-color: #724732;
 }
-	
+		
 a {
 	color: #724732;
 }
