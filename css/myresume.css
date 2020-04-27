@@ -67,3 +67,6 @@ tr:nth-child(even) {
 table:hover{
   font-weight:bold
 }
+p {
+	color: #9D3257;
+}
