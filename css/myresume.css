@@ -13,54 +13,54 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.2rem;
 	text-transform: none;
 	letter-spacing: -0.05rem;
-	color:#9D3257；
+	color:#FEFF07；
 }
 div.subheading mb-3 {
-	color:#9D3257；
+	color:#FEFF07；
 }
 
 h1 .text-primary {
 	font-size: 3rem;
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
-	color:#9D3257；
+	color:#FEFF07；
 }
 
 .bg-primary {
-	background-color:#9D3257!important;
+	background-color:#FEFF07!important;
 	background-image: url("https://www.transparenttextures.com/patterns/random-grey-variations.png");
 }
 
 .text-primary {
-	color:#9D3257!important;
+	color:#FEFF07!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
 }
 .social-icons a:hover {
-  background-color: #9D3257;
+  background-color: #FEFF07;
 }
 		
 a {
-	color: #9D3257;
+	color: #FEFF07;
 }
 
 a:link {
-	color: #9D3257;
+	color: #FEFF07;
 }
 
 a:hover {
 	color:#3d0a09;
 }
 .interests-icons {
-	color: #9D3257;
+	color: #FEFF07;
 }
 .interests-icons i:hover {
 	color: #3d0a09;
 }
 .skills-icons {
-	color: #9D3257;
+	color:#FEFF07;
 }
 .skills-icons i:hover {
 	color: #3d0a09;
@@ -75,8 +75,8 @@ table:hover{
   font-weight:bold
 }
 p {
-	color: #9D3257;
+	color: #FEFF07;
 }
 li {
-	color: #9D3257;
+	color: #FEFF07;
 }
