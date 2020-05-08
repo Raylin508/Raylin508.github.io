@@ -83,6 +83,9 @@ li {
 .nav-item{
 	background-color: #00AAFF;
 }
-
+div#container{
+	background-color: DodgerBlue;
+	padding: 0.5rem;
+}
 
 
