@@ -87,5 +87,8 @@ div#container{
 	background-color: DodgerBlue;
 	padding: 0.5rem;
 }
-
+tr.child_div{
+	margin: 0.5rem
+	padding: 0.5rem
+}
 
