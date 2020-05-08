@@ -89,9 +89,7 @@ div#container{
 }
 td.child_div{
 	font-size: 15px;
-}
-.child_div td{
-	display: bl;
+	margin: 3rem;
 }
 div#flex_container{
 	display: flex;
