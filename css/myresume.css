@@ -86,10 +86,10 @@ li {
 div#container{
 	background-color: DodgerBlue;
 	padding: 0.5rem;
+	margin: 5rem;
 }
 td.child_div{
 	font-size: 15px;
-	margin: 3rem;
 }
 div#flex_container{
 	display: flex;
