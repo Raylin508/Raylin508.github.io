@@ -87,7 +87,7 @@ div#container{
 	background-color: DodgerBlue;
 	padding: 0.5rem;
 }
-tr.child_div{
+td.child_div{
 	margin: 2rem
 	padding: 2rem
 }
