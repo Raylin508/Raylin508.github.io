@@ -90,4 +90,7 @@ div#container{
 td.child_div{
 	font-size: 15px;
 }
+div#flex_container{
+	display: flex;
+}
 
