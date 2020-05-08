@@ -86,7 +86,7 @@ li {
 div#container{
 	background-color: DodgerBlue;
 	padding: 0.5rem;
-	margin: 5rem;
+	height: 80rem;
 }
 td.child_div{
 	font-size: 15px;
