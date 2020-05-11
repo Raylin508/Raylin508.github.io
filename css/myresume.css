@@ -95,4 +95,6 @@ div#flex_container{
 	display: flex;
 	justify-content: center;
 }
-
+td#g-img{
+	border:solid 10px #9D9E2D;
+}
