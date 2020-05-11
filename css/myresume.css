@@ -87,6 +87,7 @@ div#container{
 	background-color: #343A40;
 	padding: 0.5rem;
 	height: 80rem;
+	width: 75rem;
 }
 td.child_div{
 	font-size: 15px;
