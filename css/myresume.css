@@ -88,6 +88,7 @@ div#container{
 	padding: 0.5rem;
 	height: 80rem;
 	width: 75rem;
+	border:solid 10px #FEFF07;  
 }
 td.child_div{
 	font-size: 15px;
@@ -97,8 +98,6 @@ div#flex_container{
 	display: flex;
 	justify-content: center;
 }
-td#g-img{
-	border:solid 10px #FEFF07;      
-}
+
 
 
