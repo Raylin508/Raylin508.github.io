@@ -91,6 +91,7 @@ div#container{
 }
 td.child_div{
 	font-size: 15px;
+	
 }
 div#flex_container{
 	display: flex;
@@ -98,7 +99,7 @@ div#flex_container{
 }
 td#g-img{
 	border:solid 10px #FEFF07;
-        border-bottom:hidden;
+       
 }
 
 
