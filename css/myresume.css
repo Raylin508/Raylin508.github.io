@@ -90,9 +90,10 @@ div#container{
 	width: 75rem;
 	border:solid 10px #FEFF07;  
 }
-td.child_div{
+.child_div{
 	font-size: 15px;
-	
+	border:solid 10px #FEFF07;  
+	background-color: #343A40;
 }
 div#flex_container{
 	display: flex;
