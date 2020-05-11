@@ -98,6 +98,7 @@ div#flex_container{
 }
 td#g-img{
 	border:solid 10px #FEFF07;
+        border-bottom:hidden;
 }
 
 
