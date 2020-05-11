@@ -98,3 +98,6 @@ div#flex_container{
 td#g-img{
 	border:solid 10px #FEFF07;
 }
+td.child_div{
+	background-color:#FEFF07;
+}
