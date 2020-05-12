@@ -84,9 +84,20 @@ li {
 	background-color: #00AAFF;
 }
 .gallerytile{
-  color:#9F88FF;
+  color: #FEFF07;
   font-size:25px;
 }
+.content {
+  background-color:#00AAFF;
+  width:350px;
+  height:350px;
+  border: 10px solid #FEFF07;
+  padding:21px;
+  margin: 5px;
+  display: inline-block;
+  flex wrap:wrap;
+}
+          
 
 
 
