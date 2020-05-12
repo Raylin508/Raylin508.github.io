@@ -83,11 +83,10 @@ li {
 .nav-item{
 	background-color: #00AAFF;
 }
-.g-word{
-	color:#FEFF07;
+.gallerytile{
+  color:#9F88FF;
+  font-size:25px;
 }
-.g-img{
-	border:10px solid #FEFF07;
 }
 
 
