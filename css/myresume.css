@@ -74,9 +74,6 @@ table {
 tr:nth-child(even) {
 	 background-color:#E6FF00;
 }
-table:hover{
-  font-weight:bold
-}
 p {
 	color: #FEFF07;
 }
