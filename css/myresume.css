@@ -18,7 +18,10 @@ h1, h2, h3, h4, h5, h6 {
 div.subheading mb-3 {
 	color:#FEFF07；
 }
-
+.nav-item:hover{
+	color:#3FE8FF
+}
+	
 h1 .text-primary {
 	font-size: 3rem;
 	letter-spacing: -0.05rem;
