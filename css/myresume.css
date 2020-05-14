@@ -101,6 +101,9 @@ li {
 .navbar-toggler-icon{
 	color:#00AAFF;
 }
+.nav-link js-scroll-trigger:hover{
+	color:#62A6FF;
+}
 	
 
 
