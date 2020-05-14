@@ -19,7 +19,7 @@ div.subheading mb-3 {
 	color:#FEFF07；
 }
 .nav-item:hover{
-	color:#3FE8FF
+	color:#3FE8FF;
 }
 	
 h1 .text-primary {
@@ -42,7 +42,7 @@ h1 .text-primary {
 	text-transform: none;
 }
 .social-icons a:hover {
-  background-color:#62A6FF;
+  background-color:#FEFF07;
 }
 		
 a {
@@ -54,19 +54,19 @@ a:link {
 }
 
 a:hover {
-	color:#62A6FF;
+	color:#392900;
 }
 .interests-icons {
 	color: #FEFF07;
 }
 .interests-icons i:hover {
-	color: #62A6FF;
+	color: #392900;
 }
 .skills-icons {
 	color:#FEFF07;
 }
 .skills-icons i:hover {
-	color: #62A6FF;
+	color: #392900;
 }
 table {
 	width:50%       
@@ -98,12 +98,7 @@ li {
 	font-size:20px;
 	color:#FEFF07;
 }
-.navbar-toggler-icon{
-	color:#00AAFF;
-}
-.nav-link js-scroll-trigger:hover{
-	color:#62A6FF;
-}
+
 	
 
 
