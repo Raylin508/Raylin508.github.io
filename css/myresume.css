@@ -42,7 +42,7 @@ h1 .text-primary {
 	text-transform: none;
 }
 .social-icons a:hover {
-  background-color:#9D9E2D;
+  background-color:#62A6FF;
 }
 		
 a {
@@ -54,19 +54,19 @@ a:link {
 }
 
 a:hover {
-	color:#9D9E2D;
+	color:#62A6FF;
 }
 .interests-icons {
 	color: #FEFF07;
 }
 .interests-icons i:hover {
-	color: #9D9E2D;
+	color: #62A6FF;
 }
 .skills-icons {
 	color:#FEFF07;
 }
 .skills-icons i:hover {
-	color: #9D9E2D;
+	color: #62A6FF;
 }
 table {
 	width:50%       
