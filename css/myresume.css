@@ -89,8 +89,8 @@ li {
   width:280px;
   height:290px;
   border: 10px solid #FEFF07;
-  padding:15px 26px 15px 26px;
-  margin: 5px auto;
+  padding:15px;
+  margin: 5px;
   display: inline-block;
   flex wrap:wrap;
 }
