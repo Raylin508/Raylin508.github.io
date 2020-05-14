@@ -89,13 +89,14 @@ li {
   width:280px;
   height:290px;
   border: 10px solid #FEFF07;
-  padding:21px;
+  padding:15px;
   margin: 5px;
   display: inline-block;
   flex wrap:wrap;
 }
 .department{
-	font-size:20;
+	font-size:20px;
+	color:#FEFF07;
 }
 
 
