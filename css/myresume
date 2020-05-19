@@ -94,7 +94,7 @@ li {
   display: inline-block;
   flex wrap:wrap;
 }
-.place{
+.place {
 	font-size:20px;
 	color:#FEFF07;
 }
