@@ -98,6 +98,6 @@ li {
 	font-size:20px;
 	color:#FEFF07;
 }
-.card{
-	backgroundcolor:#00AAFF;
+.card-header{
+	background-color:#343A40;
 }
