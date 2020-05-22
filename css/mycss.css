@@ -1,6 +1,7 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	background-color:#00AAFF
+	background-color:#00AAFF;
+	background-image: url("https://www.transparenttextures.com/patterns/random-grey-variations.png");
 }
 
 h1, h2, h3, h4, h5, h6 {
