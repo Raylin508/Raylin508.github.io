@@ -101,3 +101,8 @@ li {
 .card-header{
 	background-color:#343A40;
 }
+.card-body{
+	border:10px solid #FEFF07;
+	background-color:#00AAFF;
+	padding:5px 5px 0;
+}
