@@ -111,3 +111,6 @@ li {
 a.card-link:hover{
 	color:#FEFF07;
 }
+img{
+    border:solid #ffffff 3px
+}
