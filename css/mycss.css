@@ -106,3 +106,6 @@ li {
 	background-color:#00AAFF;
 	padding:5px 5px 0;
 }
+a.card-link:hover{
+	color:#FEFF07;
+}
