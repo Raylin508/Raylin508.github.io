@@ -118,3 +118,11 @@ img{
 .school{
 	border:solid #FEFF07 5px;
 }
+.golf{
+	border:solid 5px #FEFF07;
+	background-color:#343A40;
+	width:550px;
+	height:630px;
+	padding:10px;
+	margin-left:100px
+}
