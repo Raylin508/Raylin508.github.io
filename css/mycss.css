@@ -137,3 +137,7 @@ img{
 .ex-word{
 	font-size:20px;
 }
+button.navbar-toggler {
+	background-color:#343A40;
+	background-image: url("https://www.transparenttextures.com/patterns/random-grey-variations.png");
+}
