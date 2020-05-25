@@ -141,3 +141,6 @@ button.navbar-toggler {
 	background-color:#343A40;
 	background-image: url("https://www.transparenttextures.com/patterns/random-grey-variations.png");
 }
+span.d-block,d-lg-none{
+	color:#343A40;
+}
